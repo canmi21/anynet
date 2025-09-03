@@ -1,4 +1,3 @@
 /* examples/demo.rs */
 
-fn main() {
-}
+fn main() {}
