@@ -19,3 +19,5 @@ path = "examples/demo.rs"
 
 [dependencies]
 fancy-log = "0.1"
+get_if_addrs = "0.5"
+ip-lookup = "0.1"
